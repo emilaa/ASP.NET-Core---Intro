@@ -1,0 +1,53 @@
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.exe
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.deps.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core _ Practice.StaticWebAssets.Manifest.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core _ Practice.StaticWebAssets.xml
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Core _ Practice.styles.css
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.RazorTargetAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.genruntimeconfig.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.exe
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.deps.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core _ Practice.StaticWebAssets.Manifest.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core _ Practice.StaticWebAssets.xml
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Core _ Practice.styles.css
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.RazorTargetAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.genruntimeconfig.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.Views.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\bin\Debug\netcoreapp3.1\ASP.NET Core _ Practice.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.RazorAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.RazorAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.TagHelpers.input.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.TagHelpers.output.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.RazorCoreGenerate.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.RazorTargetAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Practice\ASP.NET Core _ Practice\obj\Debug\netcoreapp3.1\ASP.NET Core _ Practice.csproj.CopyComplete

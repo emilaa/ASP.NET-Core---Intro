@@ -1,0 +1,36 @@
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\ASP.NET Core - Task.exe
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\ASP.NET Core - Task.deps.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\ASP.NET Core - Task.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\ASP.NET Core - Task.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\ASP.NET Core - Task.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\ASP.NET Core - Task.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\ASP.NET Core - Task.Views.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\bin\Debug\netcoreapp3.1\ASP.NET Core - Task.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.RazorAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.RazorAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core - Task.StaticWebAssets.Manifest.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\staticwebassets\ASP.NET Core - Task.StaticWebAssets.xml
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\scopedcss\bundle\ASP.NET Core - Task.styles.css
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.TagHelpers.input.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.TagHelpers.output.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.RazorCoreGenerate.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\Razor\Views\About\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\Razor\Views\Profile\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.RazorTargetAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.RazorTargetAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.dll
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.pdb
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.genruntimeconfig.cache
+C:\Users\Emil Abdullayev\Desktop\BackEnd\ASP.NET Core - Intro\ASP.NET Core - Task\ASP.NET Core - Task\obj\Debug\netcoreapp3.1\ASP.NET Core - Task.csproj.CopyComplete
